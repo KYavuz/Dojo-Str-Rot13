@@ -1,4 +1,4 @@
-# DOJO STR_ROT13
+# DOJO Décodage STR_ROT
 
 ### Première partie : Décodage
 
