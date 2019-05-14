@@ -9,7 +9,7 @@ Toi et ton groupe doit décoder le message envoyé par ton formateur. Voici le m
 
 ### Deuxième partie : Code en PHP
 
-Le pilote aidé par le co-pilote pendant 3 minutes devant le php doit développer le programme pour décoder le message.
-Passer les 3 minutes, le co-pilote devient pilote et un nouveau co-pilote rentre dans la course.
-Le reste du groupe reste silencieux !
+* Le pilote aidé par le co-pilote pendant 3 minutes devant le php doit développer le programme pour décoder le message.
+* Passer les 3 minutes, le co-pilote devient pilote et un nouveau co-pilote rentre dans la course.
+* Le reste du groupe reste silencieux !
 
